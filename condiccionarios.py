@@ -6,8 +6,6 @@ def automata(cadena):
         'D': {'x': 'C', 'y': 'D', 'z': 'C'},
     }
 
-    alfabeto = ['x', 'y', 'z']
-
     estado_actual = 'A'
 
     estados_finales = ["D"]
